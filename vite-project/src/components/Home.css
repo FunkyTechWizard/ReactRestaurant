@@ -1,0 +1,153 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: teal;
+  }
+
+  .hiip{
+    
+      width: auto; /* Adjust the width to fit content */
+      padding: 8px 15px; /* Reduce the padding for a smaller button */
+      background-color: #333;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-right: 10px; /* Adjust the right margin to create space between the button and other elements */
+      align-items: center;
+      margin-left: 0px;
+    }
+    .hip{
+      text-align: center;
+      text-decoration: bold;
+      font-size: 30px;
+    }
+    
+    
+  
+  
+  .home-subtitle1{
+    text-align:center;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    color:black;
+  }.hu{
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 20px;
+  }
+  .login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:80vh;
+  }
+ 
+  
+  .home-title {
+    font-size: 35px;
+    margin-bottom: 20px;
+    margin-top: 40PX;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    
+  }
+  
+  .home-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .card {
+    background-color:azure;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    width: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+  }
+  
+  .home-subtitle {
+    margin-bottom: 10px;
+  }
+  .hiii{
+    color: white;
+  }
+  .home-link {
+    padding: 7px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+    background-color: #292a31;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .home-link:hover {
+    background-color: black;
+  }
+  .btn2 {
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn2:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  
+  
+  /* About Us Container */
+.about-us-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+/* About Us Title */
+.about-us-title {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* About Us Description */
+.about-us-description {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+/* Additional Styling (Feel free to customize) */
+.about-us-content {
+  background-color: #f8f8f8;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Add some spacing between paragraphs */
+.about-us-description:not(:last-child) {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "price": 10.99,
+    "description": "Classic pizza with tomato sauce, mozzarella cheese, and basil."
+  },
+  {
+    "name": "Chicken Alfredo Pasta",
+    "price": 12.99,
+    "description": "Creamy pasta with grilled chicken, Alfredo sauce, and Parmesan cheese."
+  },
+  {
+    "name": "Cheeseburger",
+    "price": 8.99,
+    "description": "Juicy beef patty with cheddar cheese, lettuce, tomato, and pickles."
+  },
+  {
+    "name": "Caesar Salad",
+    "price": 6.99,
+    "description": "Crisp romaine lettuce, Parmesan cheese, croutons, and Caesar dressing."
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "price": 11.99,
+    "description": "Spaghetti pasta with rich meat sauce and grated Parmesan cheese."
+  },
+  {
+    "name": "Mushroom Risotto",
+    "price": 9.99,
+    "description": "Creamy Arborio rice cooked with mushrooms, onions, and garlic."
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "price": 13.99,
+    "description": "Grilled chicken in a spicy tomato-based sauce served with naan bread."
+  },
+  {
+    "name": "BBQ Ribs",
+    "price": 15.99,
+    "description": "Tender pork ribs slow-cooked in a smoky BBQ sauce."
+  },
+  {
+    "name": "Greek Salad",
+    "price": 7.99,
+    "description": "Fresh salad with tomatoes, cucumbers, feta cheese, olives, and Greek dressing."
+  },
+  {
+    "name": "Fish and Chips",
+    "price": 10.99,
+    "description": "Crispy battered fish fillets served with French fries and tartar sauce."
+  },
+  {
+    "name": "Beef Stir-Fry",
+    "price": 11.99,
+    "description": "Sliced beef, mixed vegetables, and soy sauce stir-fried to perfection."
+  },
+  {
+    "name": "Veggie Burger",
+    "price": 8.99,
+    "description": "Plant-based patty with lettuce, tomato, onion, and special sauce."
+  },
+  {
+    "name": "Penne Arrabiata",
+    "price": 9.99,
+    "description": "Penne pasta with spicy tomato sauce, garlic, and chili flakes."
+  },
+  {
+    "name": "Chicken Caesar Wrap",
+    "price": 7.99,
+    "description": "Grilled chicken, romaine lettuce, Parmesan cheese, and Caesar dressing wrapped in a tortilla."
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "price": 10.99,
+    "description": "Pizza topped with ham, pineapple, tomato sauce, and mozzarella cheese."
+  },
+  {
+    "name": "Sushi Combo",
+    "price": 14.99,
+    "description": "Assorted sushi rolls and sashimi served with soy sauce and wasabi."
+  },
+  {
+    "name": "Chicken Noodle Soup",
+    "price": 6.99,
+    "description": "Classic soup with chicken, vegetables, and egg noodles in a flavorful broth."
+  },
+  {
+    "name": "Caprese Salad",
+    "price": 7.99,
+    "description": "Fresh tomatoes, mozzarella cheese, and basil drizzled with balsamic glaze."
+  },
+  {
+    "name": "Steak Fajitas",
+    "price": 16.99,
+    "description": "Grilled steak, bell peppers, onions, and tortillas served with salsa and sour cream."
+  },
+  {
+    "name": "Pesto Pasta",
+    "price": 9.99,
+    "description": "Penne pasta tossed in homemade pesto sauce with cherry tomatoes and Parmesan cheese."
+  },
+  {
+    "name": "Chicken Shawarma",
+    "price": 12.99,
+    "description": "Marinated grilled chicken wrapped in pita bread with garlic sauce and vegetables."
+  },
+  {
+    "name": "Beef Burrito",
+    "price": 9.99,
+    "description": "Flour tortilla filled with seasoned beef, rice, beans, cheese, and salsa."
+  },
+  {
+    "name": "Mango Smoothie",
+    "price": 5.99,
+    "description": "Refreshing smoothie made with ripe mangoes and yogurt."
+  },
+  {
+    "name": "Tiramisu",
+    "price": 6.99,
+    "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream."
+  },
+  {
+    "name": "Chicken Satay",
+    "price": 8.99,
+    "description": "Grilled chicken skewers served with peanut sauce and cucumber relish."
+  },
+  {
+    "name": "Veggie Pizza",
+    "price": 10.99,
+    "description": "Vegetarian pizza loaded with assorted veggies and cheese."
+  },
+  {
+    "name": "Pad Thai",
+    "price": 11.99,
+    "description": "Stir-fried rice noodles with shrimp, tofu, eggs, peanuts, and tamarind sauce."
+  },
+  {
+    "name": "Spinach and Feta Stuffed Chicken",
+    "price": 14.99,
+    "description": "Grilled chicken breast stuffed with spinach and feta cheese."
+  },
+  {
+    "name": "Pancakes",
+    "price": 7.99,
+    "description": "Fluffy pancakes served with maple syrup and butter."
+  },
+  {
+    "name": "Beef Biryani",
+    "price": 13.99,
+    "description": "Fragrant basmati rice cooked with spiced beef, aromatic herbs, and saffron."
+  },
+  {
+    "name": "Club Sandwich",
+    "price": 9.99,
+    "description": "Triple-decker sandwich with layers of turkey, bacon, lettuce, tomato, and mayo."
+  },
+  {
+    "name": "Mediterranean Platter",
+    "price": 12.99,
+    "description": "Assorted mezze including hummus, falafel, tabbouleh, and pita bread."
+  },
+  {
+    "name": "Beef Tacos",
+    "price": 8.99,
+    "description": "Soft corn tortillas filled with seasoned beef, lettuce, cheese, and salsa."
+  },
+  {
+    "name": "Mango Salad",
+    "price": 6.99,
+    "description": "Refreshing salad with ripe mangoes, mixed greens, red onions, and lime dressing."
+  },
+  {
+    "name": "Chicken Parmesan",
+    "price": 12.99,
+    "description": "Breaded chicken cutlet topped with marinara sauce and melted mozzarella cheese."
+  },
+  {
+    "name": "Falafel Wrap",
+    "price": 7.99,
+    "description": "Deep-fried chickpea patties wrapped in pita bread with tahini sauce and vegetables."
+  },
+  {
+    "name": "Beef Curry",
+    "price": 11.99,
+    "description": "Tender beef cooked in a fragrant curry sauce served with steamed rice."
+  },
+  {
+    "name": "Caprese Pizza",
+    "price": 10.99,
+    "description": "Pizza topped with fresh tomatoes, mozzarella cheese, basil, and balsamic glaze."
+  },
+  {
+    "name": "Chicken Teriyaki",
+    "price": 11.99,
+    "description": "Grilled chicken marinated in teriyaki sauce served with steamed vegetables and rice."
+  },
+  {
+    "name": "Shrimp Scampi",
+    "price": 13.99,
+    "description": "Sautéed shrimp in a garlic and butter sauce served over pasta."
+  },
+  {
+    "name": "Veggie Fried Rice",
+    "price": 9.99,
+    "description": "Stir-fried rice with mixed vegetables, soy sauce, and scrambled eggs."
+  },
+  {
+    "name": "Beef Lasagna",
+    "price": 12.99,
+    "description": "Layers of pasta, seasoned beef, tomato sauce, and melted cheese baked to perfection."
+  },
+  {
+    "name": "Chicken Fajitas",
+    "price": 12.99,
+    "description": "Grilled chicken, bell peppers, onions, and tortillas served with salsa and sour cream."
+  },
+  {
+    "name": "Vegetable Curry",
+    "price": 9.99,
+    "description": "Assorted vegetables cooked in a flavorful curry sauce served with rice or naan bread."
+  },
+  {
+    "name": "Chicken Shawarma Platter",
+    "price": 14.99,
+    "description": "Marinated grilled chicken served with rice, garlic sauce, and pita bread."
+  },
+  {
+    "name": "Mushroom Soup",
+    "price": 6.99,
+    "description": "Creamy soup made with fresh mushrooms and aromatic herbs."
+  },
+  {
+    "name": "Sushi Boat",
+    "price": 19.99,
+    "description": "A selection of sushi rolls, sashimi, and nigiri beautifully arranged on a boat-shaped platter."
+  },
+  {
+    "name": "Pulled Pork Sandwich",
+    "price": 9.99,
+    "description": "Slow-cooked pulled pork smothered in BBQ sauce served on a bun."
+  },
+  {
+    "name": "Chicken Biryani",
+    "price": 13.99,
+    "description": "Fragrant basmati rice cooked with spiced chicken, aromatic herbs, and saffron."
+  },
+  {
+    "name": "Greek Gyro",
+    "price": 8.99,
+    "description": "Grilled meat (beef, lamb, or chicken) wrapped in pita bread with tzatziki sauce and vegetables."
+  },
+  {
+    "name": "Butter Chicken",
+    "price": 12.99,
+    "description": "Tandoori chicken cooked in a rich tomato-based sauce served with naan bread or rice."
+  },
+  {
+    "name": "Quinoa Salad",
+    "price": 8.99,
+    "description": "Healthy salad with quinoa, mixed greens, cherry tomatoes, cucumber, and lemon dressing."
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "price": 9.99,
+    "description": "Grilled chicken, romaine lettuce, Parmesan cheese, croutons, and Caesar dressing."
+  },
+  {
+    "name": "Beef Stir-Fry Noodles",
+    "price": 11.99,
+    "description": "Stir-fried beef, mixed vegetables, and noodles tossed in a savory sauce."
+  },
+  {
+    "name": "Vegetable Biryani",
+    "price": 10.99,
+    "description": "Fragrant basmati rice cooked with mixed vegetables, aromatic herbs, and saffron."
+  },
+  {
+    "name": "Chicken Quesadilla",
+    "price": 8.99,
+    "description": "Grilled chicken and melted cheese folded in a flour tortilla served with salsa and sour cream."
+  },
+  {
+    "name": "Tomato Basil Soup",
+    "price": 6.99,
+    "description": "Creamy tomato soup infused with fresh basil leaves."
+  },
+  {
+    "name": "Shrimp Tempura Roll",
+    "price": 9.99,
+    "description": "Sushi roll filled with tempura-battered shrimp, avocado, and cucumber."
+  },
+  {
+    "name": "BBQ Chicken Wings",
+    "price": 8.99,
+    "description": "Crispy chicken wings glazed with BBQ sauce."
+  },
+  {
+    "name": "Mango Sticky Rice",
+    "price": 7.99,
+    "description": "Thai dessert made with sticky rice, fresh mangoes, and coconut milk."
+  },
+  {
+    "name": "Vegetable Samosa",
+    "price": 5.99,
+    "description": "Deep-fried pastry filled with spiced potatoes and vegetables."
+  },
+  {
+    "name": "Beef Enchiladas",
+    "price": 9.99,
+    "description": "Corn tortillas filled with seasoned beef, topped with enchilada sauce and melted cheese."
+  },
+  {
+    "name": "Avocado Toast",
+    "price": 6.99,
+    "description": "Toasted bread topped with mashed avocado, olive oil, and seasonings."
+  },
+  {
+    "name": "Chicken Noodle Stir-Fry",
+    "price": 10.99,
+    "description": "Stir-fried chicken, vegetables, and noodles in a savory sauce."
+  },
+  {
+    "name": "Caprese Sandwich",
+    "price": 8.99,
+    "description": "Fresh tomatoes, mozzarella cheese, and basil drizzled with balsamic glaze on ciabatta bread."
+  },
+  {
+    "name": "Chicken Korma",
+    "price": 12.99,
+    "description": "Tender chicken cooked in a creamy and aromatic cashew sauce served with rice or naan bread."
+  },
+  {
+    "name": "Greek Moussaka",
+    "price": 11.99,
+    "description": "Layered casserole with eggplant, ground meat, and béchamel sauce baked to perfection."
+  },
+  {
+    "name": "Cheese Ravioli",
+    "price": 9.99,
+    "description": "Pasta pockets filled with cheese served with marinara sauce and grated Parmesan cheese."
+  },
+  {
+    "name": "Vegetable Spring Rolls",
+    "price": 6.99,
+    "description": "Crispy fried rolls filled with mixed vegetables served with sweet and sour sauce."
+  },
+  {
+    "name": "Beef Stroganoff",
+    "price": 13.99,
+    "description": "Tender beef strips in a creamy mushroom sauce served over egg noodles or rice."
+  },
+  {
+    "name": "Falafel Salad",
+    "price": 8.99,
+    "description": "Fresh salad with falafel, mixed greens, tomatoes, cucumber, and tahini dressing."
+  },
+  {
+    "name": "Chicken Tacos",
+    "price": 8.99,
+    "description": "Soft corn tortillas filled with seasoned chicken, lettuce, cheese, and salsa."
+  },
+  {
+    "name": "Chocolate Brownie",
+    "price": 6.99,
+    "description": "Decadent chocolate brownie served with vanilla ice cream and chocolate sauce."
+  },
+  {
+    "name": "Beef Teriyaki",
+    "price": 13.99,
+    "description": "Grilled beef marinated in teriyaki sauce served with steamed vegetables and rice."
+  },
+  {
+    "name": "Pesto Chicken Sandwich",
+    "price": 9.99,
+    "description": "Grilled chicken, pesto sauce, mozzarella cheese, and sun-dried tomatoes on ciabatta bread."
+  },
+  {
+    "name": "Chicken Pad Thai",
+    "price": 10.99,
+    "description": "Stir-fried rice noodles with chicken, tofu, eggs, peanuts, and tamarind sauce."
+  },
+  {
+    "name": "Steak Salad",
+    "price": 12.99,
+    "description": "Grilled steak, mixed greens, cherry tomatoes, red onions, and balsamic vinaigrette."
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "price": 9.99,
+    "description": "Stir-fried rice with chicken, mixed vegetables, and soy sauce."
+  },
+  {
+    "name": "Veggie Lasagna",
+    "price": 11.99,
+    "description": "Layers of pasta, mixed vegetables, tomato sauce, and melted cheese baked to perfection."
+  },
+  {
+    "name": "Lemon Garlic Shrimp",
+    "price": 13.99,
+    "description": "Sautéed shrimp in a tangy lemon and garlic sauce served with rice or pasta."
+  },
+  {
+    "name": "Greek Souvlaki",
+    "price": 9.99,
+    "description": "Grilled meat (beef, lamb, or chicken) skewers served with pita bread and tzatziki sauce."
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "price": 11.99,
+    "description": "Grilled paneer cheese in a creamy and spiced tomato sauce served with naan bread or rice."
+  },
+  {
+    "name": "Caprese Skewers",
+    "price": 7.99,
+    "description": "Skewers with cherry tomatoes, mozzarella cheese, and basil drizzled with balsamic glaze."
+  },
+  {
+    "name": "Vegetable Stir-Fry",
+    "price": 9.99,
+    "description": "Assorted vegetables stir-fried in a savory sauce served with steamed rice or noodles."
+  }
+ ]

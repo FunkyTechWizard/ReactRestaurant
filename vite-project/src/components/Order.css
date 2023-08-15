@@ -1,0 +1,87 @@
+.order-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.order-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 400px;
+  padding: 16px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.hj{
+  padding-top: 170px;
+  padding-bottom: 40px;
+  text-align: center;
+  color:white;
+  font-size: 35px;
+  font-family: cursive;
+}
+
+.order-info{
+  color: white;
+  font-size: bold;
+}
+
+.order-info h3 {
+  margin: 0;
+}
+
+.order-info p {
+  margin: 4px 0;
+}
+
+.order-quantity {
+  display: flex;
+  align-items: center;
+}
+
+.order-quantity button {
+  width: 32px;
+  height: 32px;
+  border: none;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
+.order-quantity input {
+  width: 40px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 0 8px;
+  padding: 4px;
+}
+
+.order-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Adjust the gap size as needed */
+  padding-left: 20px;
+}
+.ko{
+  background-color: #292a31;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.ko:hover{
+  background-color: black;
+  color: white;
+}
+
+.order-actions button {
+  margin-bottom: 10px; /* Add margin to create space between the buttons */
+}
+
+.message{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 35px;
+}
